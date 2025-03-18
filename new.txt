@@ -1,2 +1,5 @@
 new file
+<<<<<<< HEAD
 hello world
+=======
+>>>>>>> newbranch1

@@ -36,3 +36,9 @@ git clone https://github.com/SwathySaji2000/Git_commands.git
 
 
 
+branch====
+
+git branch "branchname"
+
+git branch newbranch1
+
